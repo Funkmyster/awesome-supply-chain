@@ -13,6 +13,7 @@
     - [Healthcare](#healthcare)
     - [Manufacturing](#manufacturing)
     - [Planning](#planning)
+    - [Procurement](#procurement)
 - [Examples](#examples)
 
 
@@ -20,7 +21,6 @@
 
 
 ## Podcasts
-
 - [Suppy Chain Insights](https://supplychaininsights.com/podcast)
 
 
@@ -31,7 +31,6 @@
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
 
 ### Blockchain
-
 - [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
 ### Healthcare
@@ -45,9 +44,11 @@
 ### Planning
 - [Frepple](https://github.com/frePPLe/frepple)
 
+### Procurement
+- [Leihs](https://github.com/leihs/leihs)
+
 
 ## Examples
-
 - [Supply Chain Logistics Wizard on Bluemix](https://github.com/IBM-Bluemix/logistics-wizard)
 - [Supply Chain Weather on Bluemix](https://github.com/IBM-Bluemix/supply-chain-weather)
 
