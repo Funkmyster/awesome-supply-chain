@@ -11,9 +11,13 @@
     - [Analytics](#analytics)
     - [Blockchain](#blockchain)
     - [Healthcare](#healthcare)
+    - [Industrial IoT](#industrial-iot)
+    - [Inventory Management](#inventory-management)
     - [Manufacturing](#manufacturing)
     - [Operations Management](#operations-management)
     - [Procurement](#procurement)
+        - [Purchasing](#purchasing)
+        - [Supplier Relationship Management](#supplier-relationship-management)
     - [Transparency](#transparency)
 - [Examples](#examples)
 
@@ -39,6 +43,10 @@
 - [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
+### Industrial IoT
+
+### Inventory Management
+
 ### Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
@@ -50,7 +58,11 @@
 - [pyschedule](https://github.com/timnon/pyschedule)
 
 ### Procurement
+
+#### Purchasing
 - [Leihs](https://github.com/leihs/leihs)
+
+#### Supplier Relationship Management
 
 ### Transparency
 - [Open Procure](https://github.com/munirent/openprocure)
