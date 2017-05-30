@@ -14,6 +14,7 @@
     - [Manufacturing](#manufacturing)
     - [Planning](#planning)
     - [Procurement](#procurement)
+    - [Transparency](#transparency)
 - [Examples](#examples)
 
 
@@ -46,6 +47,9 @@
 
 ### Procurement
 - [Leihs](https://github.com/leihs/leihs)
+
+### Transparency
+- [Open Procure](https://github.com/munirent/openprocure)
 
 
 ## Examples
