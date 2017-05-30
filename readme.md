@@ -12,7 +12,7 @@
     - [Blockchain](#blockchain)
     - [Healthcare](#healthcare)
     - [Manufacturing](#manufacturing)
-    - [Planning](#planning)
+    - [Operations Management](#operations-management)
     - [Procurement](#procurement)
     - [Transparency](#transparency)
 - [Examples](#examples)
