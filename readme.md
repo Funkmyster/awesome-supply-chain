@@ -8,6 +8,10 @@
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
 - [Projects](#projects)
+    - [Analytics](#analytics)
+    - [Healthcare](#healthcare)
+    - [Manufacturing](#manufacturing)
+    - [Planning](#planning)
 - [Examples](#examples)
 
 
@@ -21,13 +25,20 @@
 
 ## Projects
 
-- [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
-- [Frepple](https://github.com/frePPLe/frepple)
-- [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
+### Analytics
 - [Open Supply Chains](https://github.com/supplychainstudies/OpenSupplyChains)
-- [OpenBoxes](https://github.com/openboxes/openboxes)
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
+
+### Healthcare
+- [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
+- [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
+
+### Manufacturing
+- [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
+
+### Planning
+- [Frepple](https://github.com/frePPLe/frepple)
 
 
 ## Examples
