@@ -9,6 +9,7 @@
 - [Podcasts](#podcasts)
 - [Projects](#projects)
     - [Analytics](#analytics)
+    - [Blockchain](#blockchain)
     - [Healthcare](#healthcare)
     - [Manufacturing](#manufacturing)
     - [Planning](#planning)
@@ -28,6 +29,10 @@
 ### Analytics
 - [Open Supply Chains](https://github.com/supplychainstudies/OpenSupplyChains)
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
+
+### Blockchain
+
+- [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
 ### Healthcare
 - [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
