@@ -42,8 +42,12 @@
 ### Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
-### Planning
+### Operations Management
+)
 - [Frepple](https://github.com/frePPLe/frepple)
+- [OMSolver](https://github.com/PointSlice/OMSolver)
+- [pyomo](https://github.com/Pyomo/pyomo)
+- [pyschedule](https://github.com/timnon/pyschedule)
 
 ### Procurement
 - [Leihs](https://github.com/leihs/leihs)
