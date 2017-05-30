@@ -43,7 +43,7 @@
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
 ### Operations Management
-)
+
 - [Frepple](https://github.com/frePPLe/frepple)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
 - [pyomo](https://github.com/Pyomo/pyomo)
