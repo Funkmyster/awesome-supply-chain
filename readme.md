@@ -51,7 +51,11 @@
 ## Procurement
 
 ### Purchasing
-- [Leihs](https://github.com/leihs/leihs)
+- [Add to Cart](https://github.com/jamez14/add-to-cart)
+- [Eventbrite Tools](https://github.com/Dalimil/Eventbrite-Tools)
+- [Nike Bot](https://github.com/bdkay/nike-bot)
+- [Oodo Purchase Workflow](https://github.com/OCA/purchase-workflow)
+- [Zinc](https://docs.zincapi.com/)
 
 ### Supplier Relationship Management
 - [SAP SRM](https://www.sap.com/products/supplier-relationship-management.html)
@@ -65,6 +69,7 @@
 
 
 ## Misc
+- [Leihs](https://github.com/leihs/leihs)
 
 ### Blogs
 - [Cerasis](http://cerasis.com/blog/)
