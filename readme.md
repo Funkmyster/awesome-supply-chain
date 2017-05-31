@@ -6,7 +6,6 @@
 ## Contents
 
 - [Analytics](#analytics)
-- [Blockchain](#blockchain)
 - [Healthcare](#healthcare)
 - [Inventory Management](#inventory-management)
 - [Manufacturing](#manufacturing)
@@ -27,9 +26,6 @@
 ## Analytics
 - [Open Supply Chains](https://github.com/supplychainstudies/OpenSupplyChains)
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
-
-## Blockchain
-- [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
 ## Healthcare
 - [OpenBoxes](https://github.com/openboxes/openboxes)
@@ -73,6 +69,7 @@
 - [Essentials of Supply Chain Management](https://www.amazon.com/Essentials-Supply-Chain-Management-ebook/dp/B005CPJVGM)
 
 ## Traceability and Transparency
+- [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 - [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
 - [Open Procure](https://github.com/munirent/openprocure)
 
