@@ -32,7 +32,9 @@
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
 ## Inventory Management
+- [Economic Order Quantity](https://en.wikipedia.org/wiki/Economic_order_quantity)
 - [Essential of Inventory Management](https://www.amazon.com/Essentials-Inventory-Management-Agency-Distributed-ebook/dp/B004U9NAGS/)
+- [Newsvendor Model](https://en.wikipedia.org/wiki/Newsvendor_model)
 
 ## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
@@ -44,9 +46,13 @@
 - [Main Flux](https://github.com/mainflux/mainflux)
 
 ## Operations Management
+- [Assignment Problem](https://en.wikipedia.org/wiki/Assignment_problem)
+- [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
+- [Demand Forcasting](https://en.wikipedia.org/wiki/Demand_forecasting)
 - [Frepple](https://github.com/frePPLe/frepple)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
 - [Operations Management for Dummies](https://www.amazon.com/Operations-Management-Dummies-Mary-Anderson-ebook/dp/B00DWZHOK4)
+- [Stable Marriage Problem](https://en.wikipedia.org/wiki/Stable_marriage_problem)
 - [pyomo](https://github.com/Pyomo/pyomo)
 - [pyschedule](https://github.com/timnon/pyschedule)
 
@@ -64,6 +70,7 @@
 
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
+- [Yield Management](https://en.wikipedia.org/wiki/Yield_management)
 
 ## Supply Chain Management
 - [Essentials of Supply Chain Management](https://www.amazon.com/Essentials-Supply-Chain-Management-ebook/dp/B005CPJVGM)
