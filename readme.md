@@ -28,6 +28,7 @@
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
 
 ## Healthcare
+- [Nurse Scheduling Problem](https://en.wikipedia.org/wiki/Nurse_scheduling_problem)
 - [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
@@ -50,9 +51,13 @@
 - [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
 - [Demand Forcasting](https://en.wikipedia.org/wiki/Demand_forecasting)
 - [Frepple](https://github.com/frePPLe/frepple)
+- [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
 - [Operations Management for Dummies](https://www.amazon.com/Operations-Management-Dummies-Mary-Anderson-ebook/dp/B00DWZHOK4)
 - [Stable Marriage Problem](https://en.wikipedia.org/wiki/Stable_marriage_problem)
+- [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+- [Vehicle Rescheduling Problem](https://en.wikipedia.org/wiki/Vehicle_rescheduling_problem)
+- [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
 - [pyomo](https://github.com/Pyomo/pyomo)
 - [pyschedule](https://github.com/timnon/pyschedule)
 
