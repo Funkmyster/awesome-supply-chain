@@ -5,74 +5,73 @@
 
 ## Contents
 
-- [Blogs](#blogs)
-- [Podcasts](#podcasts)
-- [Projects](#projects)
-    - [Analytics](#analytics)
-    - [Blockchain](#blockchain)
-    - [Healthcare](#healthcare)
-    - [Industrial IoT](#industrial-iot)
-    - [Inventory Management](#inventory-management)
-    - [Manufacturing](#manufacturing)
-    - [Operations Management](#operations-management)
-    - [Procurement](#procurement)
-        - [Purchasing](#purchasing)
-        - [Supplier Relationship Management](#supplier-relationship-management)
-    - [Revenue Management](#revenue-management)
-    - [Transparency](#transparency)
-- [Examples](#examples)
+- [Analytics](#analytics)
+- [Blockchain](#blockchain)
+- [Healthcare](#healthcare)
+- [Industrial IoT](#industrial-iot)
+- [Inventory Management](#inventory-management)
+- [Manufacturing](#manufacturing)
+- [Operations Management](#operations-management)
+- [Procurement](#procurement)
+    - [Purchasing](#purchasing)
+    - [Supplier Relationship Management](#supplier-relationship-management)
+- [Revenue Management](#revenue-management)
+- [Transparency](#transparency)
+- [Misc](#misc)
+    - [Blogs](#blogs)
+    - [Podcasts](#podcasts)
+    - [Examples](#examples)
 
 
-## Blogs
-
-
-## Podcasts
-- [Suppy Chain Insights](https://supplychaininsights.com/podcast)
-
-
-## Projects
-
-### Analytics
+## Analytics
 - [Open Supply Chains](https://github.com/supplychainstudies/OpenSupplyChains)
 - [Suppychainpy](https://github.com/KevinFasusi/supplychainpy)
 
-### Blockchain
+## Blockchain
 - [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
-### Healthcare
+## Healthcare
 - [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
 - [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
-### Industrial IoT
+## Industrial IoT
 
-### Inventory Management
+## Inventory Management
 
-### Manufacturing
+## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
-### Operations Management
+## Operations Management
 
 - [Frepple](https://github.com/frePPLe/frepple)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
 - [pyomo](https://github.com/Pyomo/pyomo)
 - [pyschedule](https://github.com/timnon/pyschedule)
 
-### Procurement
+## Procurement
 
-#### Purchasing
+### Purchasing
 - [Leihs](https://github.com/leihs/leihs)
 
-#### Supplier Relationship Management
+### Supplier Relationship Management
 
-### Revenue Management
+## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
 
-### Transparency
+## Transparency
 - [Open Procure](https://github.com/munirent/openprocure)
 
 
-## Examples
+## Misc
+
+### Blogs
+
+### Podcasts
+- [Suppy Chain Insights](https://supplychaininsights.com/podcast)
+
+
+### Examples
 - [Supply Chain Logistics Wizard on Bluemix](https://github.com/IBM-Bluemix/logistics-wizard)
 - [Supply Chain Weather on Bluemix](https://github.com/IBM-Bluemix/supply-chain-weather)
 
