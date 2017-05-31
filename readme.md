@@ -50,6 +50,7 @@
 ## Operations Management
 - [Frepple](https://github.com/frePPLe/frepple)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
+- [Operations Management for Dummies](https://www.amazon.com/Operations-Management-Dummies-Mary-Anderson-ebook/dp/B00DWZHOK4)
 - [pyomo](https://github.com/Pyomo/pyomo)
 - [pyschedule](https://github.com/timnon/pyschedule)
 
