@@ -9,7 +9,7 @@
 - [Healthcare](#healthcare)
 - [Inventory Management](#inventory-management)
 - [Manufacturing](#manufacturing)
-    - [Industrial IoT](#industrial-iot)
+    - [IoT](#iot)
 - [Operations Management](#operations-management)
 - [Procurement](#procurement)
     - [Purchasing](#purchasing)
@@ -37,7 +37,7 @@
 ## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
-### Industrial IoT
+### IoT
 - [Awesome IoT by HQarroum](https://github.com/HQarroum/awesome-ioHQarroum)
 - [Awesome IoT by phodal](https://github.com/phodal/awesome-iot)
 - [Awesome Open IoT](https://github.com/Agile-IoT/awesome-open-iot)
