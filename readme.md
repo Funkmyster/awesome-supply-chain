@@ -17,6 +17,7 @@
     - [Supplier Relationship Management](#supplier-relationship-management)
 - [Revenue Management](#revenue-management)
 - [Traceability and Transparency](#traceability-and-transparency)
+- [Warehouse Management](#warehouse-management)
 - [Misc](#misc)
     - [Blogs](#blogs)
     - [Podcasts](#podcasts)
@@ -35,14 +36,18 @@
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
 ## Inventory Management
+- [Essential of Inventory Management](https://www.amazon.com/Essentials-Inventory-Management-Agency-Distributed-ebook/dp/B004U9NAGS/)
 
 ## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
 
 ### Industrial IoT
+- [Awesome IoT by HQarroum](https://github.com/HQarroum/awesome-ioHQarroum)
+- [Awesome IoT by phodal](https://github.com/phodal/awesome-iot)
+- [Awesome Open IoT](https://github.com/Agile-IoT/awesome-open-iot)
+- [Main Flux](https://github.com/mainflux/mainflux)
 
 ## Operations Management
-
 - [Frepple](https://github.com/frePPLe/frepple)
 - [OMSolver](https://github.com/PointSlice/OMSolver)
 - [pyomo](https://github.com/Pyomo/pyomo)
@@ -63,9 +68,15 @@
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
 
+## Supply Chain Management
+- [Essentials of Supply Chain Management](https://www.amazon.com/Essentials-Supply-Chain-Management-ebook/dp/B005CPJVGM)
+
 ## Traceability and Transparency
 - [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
 - [Open Procure](https://github.com/munirent/openprocure)
+
+## Warehouse Management
+- [Warehouse Management 2nd Edition: A Complete Guide](https://www.amazon.com/Warehouse-Management-Improving-Efficiency-Minimizing-ebook/dp/B00KJ2ZG5S/)
 
 
 ## Misc
