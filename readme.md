@@ -66,6 +66,9 @@
 ## Misc
 
 ### Blogs
+- [Cerasis](http://cerasis.com/blog/)
+- [SCMR](http://www.scmr.com/blogs)
+- [Supply Chain Brain](http://www.supplychainbrain.com)
 
 ### Podcasts
 - [Suppy Chain Insights](https://supplychaininsights.com/podcast)
