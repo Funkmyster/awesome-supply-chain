@@ -8,9 +8,9 @@
 - [Analytics](#analytics)
 - [Blockchain](#blockchain)
 - [Healthcare](#healthcare)
-- [Industrial IoT](#industrial-iot)
 - [Inventory Management](#inventory-management)
 - [Manufacturing](#manufacturing)
+    - [Industrial IoT](#industrial-iot)
 - [Operations Management](#operations-management)
 - [Procurement](#procurement)
     - [Purchasing](#purchasing)
@@ -35,12 +35,12 @@
 - [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
-## Industrial IoT
-
 ## Inventory Management
 
 ## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
+
+### Industrial IoT
 
 ## Operations Management
 
@@ -55,6 +55,7 @@
 - [Leihs](https://github.com/leihs/leihs)
 
 ### Supplier Relationship Management
+- [SAP SRM](https://www.sap.com/products/supplier-relationship-management.html)
 
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
