@@ -16,7 +16,7 @@
     - [Purchasing](#purchasing)
     - [Supplier Relationship Management](#supplier-relationship-management)
 - [Revenue Management](#revenue-management)
-- [Transparency](#transparency)
+- [Traceability and Transparency](#traceability-and-transparency)
 - [Misc](#misc)
     - [Blogs](#blogs)
     - [Podcasts](#podcasts)
@@ -31,7 +31,6 @@
 - [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
 ## Healthcare
-- [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
 - [OpenBoxes](https://github.com/openboxes/openboxes)
 - [eHealthAfrica Last Mile SCM](https://github.com/eHealthAfrica/move)
 
@@ -60,7 +59,8 @@
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
 
-## Transparency
+## Traceability and Transparency
+- [Cannabis Supply Chain Traceability](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability)
 - [Open Procure](https://github.com/munirent/openprocure)
 
 
