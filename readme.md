@@ -18,6 +18,7 @@
     - [Procurement](#procurement)
         - [Purchasing](#purchasing)
         - [Supplier Relationship Management](#supplier-relationship-management)
+    - [Revenue Management](#revenue-management)
     - [Transparency](#transparency)
 - [Examples](#examples)
 
@@ -63,6 +64,9 @@
 - [Leihs](https://github.com/leihs/leihs)
 
 #### Supplier Relationship Management
+
+### Revenue Management
+- [RevPy](https://github.com/flix-tech/RevPy)
 
 ### Transparency
 - [Open Procure](https://github.com/munirent/openprocure)
