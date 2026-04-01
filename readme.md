@@ -63,6 +63,9 @@
 
 ## Procurement
 
+### Payments
+* [SCTP — Supply Chain Task Protocol](https://github.com/plagtech/sctp) - Agent-native invoice verification and payment layer. AI agents verify invoices against purchase orders and pay suppliers in USDC via API — no accounts, pay-per-call via x402. Live at [gateway.spraay.app](https://gateway.spraay.app).
+
 ### Purchasing
 - [Add to Cart](https://github.com/jamez14/add-to-cart)
 - [Eventbrite Tools](https://github.com/Dalimil/Eventbrite-Tools)
