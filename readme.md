@@ -91,6 +91,7 @@
 
 ## Misc
 - [Leihs](https://github.com/leihs/leihs)
+- [EDIFlow](https://github.com/ediflow-lib/core) - Open-source EDI (EDIFACT, X12, EANCOM) parser, validator, and builder for TypeScript/Node.js. Parse purchase orders, invoices, despatch advices and 1294+ other EDI message types used in supply chain integration.
 
 ### Blogs
 - [Cerasis](http://cerasis.com/blog/)
