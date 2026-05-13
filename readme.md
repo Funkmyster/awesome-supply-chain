@@ -86,6 +86,7 @@
 - [Open Procure](https://github.com/munirent/openprocure)
 
 ## Warehouse Management
+- [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Packaging fit and carton-selection tool for comparing item dimensions against packaging options and exporting SKU review notes.
 - [Warehouse Management 2nd Edition: A Complete Guide](https://www.amazon.com/Warehouse-Management-Improving-Efficiency-Minimizing-ebook/dp/B00KJ2ZG5S/)
 
 
