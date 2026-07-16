@@ -66,6 +66,7 @@
 ### Purchasing
 - [Add to Cart](https://github.com/jamez14/add-to-cart)
 - [Eventbrite Tools](https://github.com/Dalimil/Eventbrite-Tools)
+- [B2B Ingredient Sourcing Resources](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing) - Practical checklists for ingredient supplier comparison, COA review, sample testing, and RFQ preparation.
 - [Nike Bot](https://github.com/bdkay/nike-bot)
 - [Oodo Purchase Workflow](https://github.com/OCA/purchase-workflow)
 - [Zinc](https://docs.zincapi.com/)
