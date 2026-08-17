@@ -72,6 +72,7 @@
 
 ### Supplier Relationship Management
 - [SAP SRM](https://www.sap.com/products/supplier-relationship-management.html)
+- [usci-check](https://github.com/zbl1998-sdjn/usci-check) - Offline parser/verifier for China's 18-character business registration code (GB 32100-2015), honest about what a passing check does not prove.
 
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
