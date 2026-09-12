@@ -72,6 +72,7 @@
 
 ### Supplier Relationship Management
 - [SAP SRM](https://www.sap.com/products/supplier-relationship-management.html)
+- [Awesome China Sourcing](https://github.com/assassinationss/awesome-china-sourcing) — Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on Chinese business licenses and Alibaba vs 1688.
 
 ## Revenue Management
 - [RevPy](https://github.com/flix-tech/RevPy)
