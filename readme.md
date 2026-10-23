@@ -87,6 +87,7 @@
 
 ## Warehouse Management
 - [Warehouse Management 2nd Edition: A Complete Guide](https://www.amazon.com/Warehouse-Management-Improving-Efficiency-Minimizing-ebook/dp/B00KJ2ZG5S/)
+- [CI Suite Pro Calculators](https://cisuitepro.com/calculators) - Free calculators for warehouse space, safety stock, freight cost, and other supply chain/operations math.
 
 
 ## Misc
