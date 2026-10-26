@@ -36,6 +36,7 @@
 - [Economic Order Quantity](https://en.wikipedia.org/wiki/Economic_order_quantity)
 - [Essential of Inventory Management](https://www.amazon.com/Essentials-Inventory-Management-Agency-Distributed-ebook/dp/B004U9NAGS/)
 - [Newsvendor Model](https://en.wikipedia.org/wiki/Newsvendor_model)
+- [Level Supply Chain & Ecommerce Inventory Benchmarks](https://levelcfo.com/benchmarks/ecommerce/) - Open benchmarks for Cash Conversion Cycle, supplier advance vs. received stock cutoffs, ASC 330 FIFO landed-cost freight capitalization, and 3PL/FBA shrinkage tie-outs ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 ## Manufacturing
 - [OPL Eagle Library](https://github.com/Seeed-Studio/OPL_Eagle_Library)
