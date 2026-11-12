@@ -87,6 +87,7 @@
 
 ## Warehouse Management
 - [Warehouse Management 2nd Edition: A Complete Guide](https://www.amazon.com/Warehouse-Management-Improving-Efficiency-Minimizing-ebook/dp/B00KJ2ZG5S/)
+- [AQX Logistics](https://aqxlogistics.com) - Cross-border export consolidation, actual-weight air cargo, and LAX international gateway hub connecting US retailers to Saudi Arabia and the GCC.
 
 
 ## Misc
